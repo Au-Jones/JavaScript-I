@@ -81,7 +81,7 @@ console.log();
 let carYears = ['2009','2001','2010','1983','1990','1995','2009','1987','1996','2000','2004','1997','1999','1994','1985','2003','2005','1992','1993','2010','1964','2001','1991','1998','2012','1965','2008','2007'];
 console.log(numbers.sort(function (a,b){
     return a-b;
-});
+})
 
 // ==== Challenge 5 ====
 // The car lot manager needs to find out how many cars are older than the year 2000. Using the carYears array you just created, find out how many cars were made before the year 2000 by populating the array oldCars and logging it's length.
@@ -93,5 +93,5 @@ console.log();
 let BMWAndAudi = [];
 console.log();
 
-
+             
 
